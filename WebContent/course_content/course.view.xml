@@ -1,0 +1,13 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:table="sap.ui.table"
+		controllerName="course_content.course" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="Course Contents">
+		<content> 
+		<Table id = "idTable">
+		<columns>
+		<Column>
+		</Column>
+		</columns>
+		</Table>       
+		</content>
+	</Page>
+</core:View>

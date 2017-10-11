@@ -1,0 +1,132 @@
+{"topic" : 
+     [
+     {"maintopic" : "Introduction to SAPUI5",
+       "subtopic":
+       [
+        {"name":"Journey of SAP's User Interface"},
+        {"name":"Overview of SAP Fiori"},
+        {"name":"Overview of SAPUI5"},
+        {"name":"Open Data"},
+        {"name":"Overview of SAP Netweaver Gateway"},
+        {"name":"Architecture of SAPUI5 Application"}
+       ]
+      },
+     {"maintopic" : "Introduction to HTML",
+     "subtopic":
+       [
+        {"name":"Creating our first web page"},
+        {"name":"Understanding Markup language"},
+        {"name":"Tags in HTML"},
+        {"name":"Web Forms"},
+        {"name":"Linking to Pages"},
+        {"name":"Iframe tag in HTML"}
+       ]
+       },
+     {"maintopic" : "Introduction to CSS",
+     "subtopic":
+       [
+        {"name":"What is CSS"},
+        {"name":"Inline, internal, External Stylesheets"},
+        {"name":"CSS Selectors"},
+        {"name":"Specificity in CSS"},
+        {"name":"Basic Properties of CSS"},
+        {"name":"Advanced properties of CSS"}
+       ]
+       },
+     {"maintopic" : "Understanding JavaScript",
+     "subtopic":
+       [
+        {"name":"Introduction to JavaScript"},
+        {"name":"Including JavaScript in HTML"},
+        {"name":"Variables in JavaScript"},
+        {"name":"Conditions in JavaScript"},
+        {"name":"Loops in JavaScript"},
+        {"name":"Functions in JavaScript"},
+        {"name":"Variable Scope"},
+        {"name":"TYPES and OBJECTS"},
+        {"name":"Document Object Model"},
+        {"name":"Events and Event Listeners"},
+        {"name":"Working with Regular Expressions"},
+        {"name":"Prototype in JavaScript"}
+       ]
+       },
+     {"maintopic" : "Introduction to jQuery",
+     "subtopic":
+       [
+        {"name":"Understanding jQuery (Why, where, What)"},
+        {"name":"Selectors in jQuery"},
+        {"name":"Traversal through DOM"},
+        {"name":"Events in jQuery"},
+        {"name":"Animations in jQuery"} 
+       ]
+       },
+     {"maintopic" : "Introduction to SAPUI5",
+     "subtopic":
+       [
+        {"name":"Understanding SAPUI5 application as a whole"},
+        {"name":"Introduction to Control"},
+        {"name":"Creating XML View"},
+        {"name":"Creating XML Page"},
+        {"name":"Databinding in SAPUI5"},
+        {"name":"Fragments in SAPUI5"},
+        {"name":"Defining App(sap.m.App) and using pages"},
+        {"name":"Understanding MVC Design Pattern"}
+       ]
+     },
+     {"maintopic" : "Open Data(OData)",
+     "subtopic":
+       [
+        {"name":"Understanding OData"},
+        {"name":"Using query options on OData and developing SAPUI5 applications"},
+        {"name":"Using Northwind services"},
+        {"name":"$Select, $filter, navigations, Read, collection options"}
+       ]
+       },
+     {"maintopic" : "SAP Netweaver Gateway Using OData Service",     
+     "subtopic":
+       [
+        {"name":"Creating OData Service in SAP Netweaver Gateway (Code Based)"},
+        {"name":"Reading and filtering data (Code Based)"},
+        {"name":"Understanding SAP Netweaver gateway"},
+        {"name":"Installations, Configurations, authorizations required."},
+        {"name":"Development life cycle of SAP Netweaver Gateway"},
+        {"name":"Hub deployment and Embedded Deployment"},
+        {"name":"Creating, Updating, deleting Entry of OData Service. (Code Based)"},
+        {"name":"Function Import (Code Based)"},
+        {"name":"File Upload and download (Code Based)"},
+        {"name":"Image download using $value (Code Based)"},
+        {"name":"Installations, Configurations, authorizations required."},
+        {"name":"Service Generation using RFC"},
+        {"name":"Testing Gateway services"}
+       ]},
+     {"maintopic" : "Advanced concepts of SAPUI5",
+     "subtopic":
+       [
+        {"name":"Component in SAPUI5"},
+        {"name":"Navigation in SAPUI5 using Route"},
+        {"name":"Deployment options in SAPUI5"},
+        {"name":"Using SplitApp - Master View, Detail View"},
+        {"name":"Extending Standard SAP Fiori Applications"},
+        {"name":"Standard View Extension"},
+        {"name":"Standard View Modification"},
+        {"name":"Standard View Replacement"},
+        {"name":"Standard Controller Modification"},
+        {"name":"Standard Controller Extension"},
+        {"name":"Standard OData Extension"},
+        {"name":"Deploying Custom and standard Applications"}
+       ]
+     },
+     {"maintopic" : "Introduction to SAP Fiori",
+     "subtopic":
+       [
+        {"name":"Understanding SAP Fiori"},
+        {"name":"SAP Fiori Design Principles"},
+        {"name":"SAP Fiori Architecture"},
+        {"name":"Guidelines to set SAP Fiori Components"},
+        {"name":"SAP Fiori Launchpad"},
+        {"name":"Using SAP Fiori Designer"}, 
+        {"name":"Creating Tiles, Catalog, Group, Roles for adding Application to Fiori"}
+       ]
+     }
+     ]
+}
